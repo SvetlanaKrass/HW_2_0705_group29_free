@@ -1,0 +1,11 @@
+1) Summary - Where? What? When? - step to produce, actual result, expected result
+2) Project
+3) Component
+4) Version build
+5) Severity - blocker,critical,major,minor,trivial
+6) Priority - high,medium, low
+7) Status - new,open,close
+8) Autor
+9) Assigned to
+10) Environment - dev,stage,prod
+11) Attachment
